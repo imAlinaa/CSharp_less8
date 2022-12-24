@@ -1,0 +1,15 @@
+/home/alina/Рабочий стол/C#/less8/task56/bin/Debug/net6.0/task56
+/home/alina/Рабочий стол/C#/less8/task56/bin/Debug/net6.0/task56.deps.json
+/home/alina/Рабочий стол/C#/less8/task56/bin/Debug/net6.0/task56.runtimeconfig.json
+/home/alina/Рабочий стол/C#/less8/task56/bin/Debug/net6.0/task56.dll
+/home/alina/Рабочий стол/C#/less8/task56/bin/Debug/net6.0/ref/task56.dll
+/home/alina/Рабочий стол/C#/less8/task56/bin/Debug/net6.0/task56.pdb
+/home/alina/Рабочий стол/C#/less8/task56/obj/Debug/net6.0/task56.csproj.AssemblyReference.cache
+/home/alina/Рабочий стол/C#/less8/task56/obj/Debug/net6.0/task56.GeneratedMSBuildEditorConfig.editorconfig
+/home/alina/Рабочий стол/C#/less8/task56/obj/Debug/net6.0/task56.AssemblyInfoInputs.cache
+/home/alina/Рабочий стол/C#/less8/task56/obj/Debug/net6.0/task56.AssemblyInfo.cs
+/home/alina/Рабочий стол/C#/less8/task56/obj/Debug/net6.0/task56.csproj.CoreCompileInputs.cache
+/home/alina/Рабочий стол/C#/less8/task56/obj/Debug/net6.0/task56.dll
+/home/alina/Рабочий стол/C#/less8/task56/obj/Debug/net6.0/ref/task56.dll
+/home/alina/Рабочий стол/C#/less8/task56/obj/Debug/net6.0/task56.pdb
+/home/alina/Рабочий стол/C#/less8/task56/obj/Debug/net6.0/task56.genruntimeconfig.cache
